@@ -1,0 +1,31 @@
+body {
+    alignment: center;
+    background-image: url("backgroundimagespace.jpg");
+}
+
+.mainheader {
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    margin: 0px auto;
+}
+
+.header2 {
+    text-align: center;
+    color: white;
+}
+
+.fieldsetbox {
+    color: white;
+    text-align: center;
+    display: flex;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+}
+
+.fieldsetbox {
+    background-color: Black;
+}
